@@ -1,2 +1,44 @@
-# Discussion-VLCC---Exploration-thermodynamique-du-champ-temporel
-Exploration des liens entre masse, température et écoulement du temps dans le cadre du modèle VLCC. Le champ temporel τ y est étudié comme variable dynamique, reliant plasticité du temps, thermodynamique et gravité morphogénique par la Loi de Plasticité du Flux de Temps (LPHD).
+# VLCC – Exploration thermodynamique du champ temporel
+### Masse, température et plasticité du flux de temps
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17546895.svg)](https://doi.org/10.5281/zenodo.17546895)
+
+## Description
+Ce dépôt présente les documents, annexes et modèles associés à l’étude :
+> **"VLCC – Exploration thermodynamique du champ temporel : Masse, température et plasticité du flux de temps"**
+
+Cette recherche explore les liens fondamentaux entre la **masse**, la **température** et l’**écoulement du temps** dans le cadre du modèle **VLCC (Variable Lagrangian of Cosmic Chronotropy)**.
+
+Le champ temporel \( τ \) y est décrit comme une grandeur dynamique dont la plasticité régit la variation de la masse effective selon la température et la tension temporelle \( Φ \).
+
+Le dépôt contient :
+- le **papier principal (.pdf)** publié sur Zenodo,  
+- des **blocs analytiques et annexes** (formules, LPHD locale et diffusive),  
+- des documents de support (scripts, schémas, notes théoriques).
+
+---
+
+## Référence de publication
+**Frédérick Vronsky (2025).**  
+*VLCC – Exploration thermodynamique du champ temporel : Masse, température et plasticité du flux de temps.*  
+Zenodo. [https://doi.org/10.5281/zenodo.17546895](https://doi.org/10.5281/zenodo.17546895)
+
+---
+
+## Mots-clés
+VLCC • Champ temporel • Plasticité du temps • LPHD • Thermodynamique du temps • Gravité morphogénique • Cosmologie théorique
+
+---
+
+## Licence
+Ce travail est distribué sous licence :
+**Creative Commons Attribution - NonCommercial - ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
+Voir le fichier [`LICENSE`](LICENSE) pour plus d’informations.
+
+---
+
+## Auteur
+**Frédérick Vronsky**  
+Chercheur indépendant en cosmologie théorique  
+ORCID : [0009-0003-5719-9604](https://orcid.org/0009-0003-5719-9604)
+
