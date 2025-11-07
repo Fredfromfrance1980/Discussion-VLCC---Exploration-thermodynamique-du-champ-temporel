@@ -4,6 +4,8 @@
 V1: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17546895.svg)](https://doi.org/10.5281/zenodo.17546895)
 v2: https://doi.org/10.5281/zenodo.17551319
 
+release: [![GitHub release](https://img.shields.io/github/v/release/Fredfromfrance1980/Discussion-VLCC-Exploration-thermodynamique-du-champ-temporel?display_name=tag)](https://github.com/Fredfromfrance1980/Discussion-VLCC-Exploration-thermodynamique-du-champ-temporel/releases/latest)
+
 ## Description
 Ce dépôt présente les documents, annexes et modèles associés à l’étude :
 > **"VLCC – Exploration thermodynamique du champ temporel : Masse, température et plasticité du flux de temps V1 et V2"**
@@ -42,4 +44,7 @@ Voir le fichier [`LICENSE`](LICENSE) pour plus d’informations.
 **Frédérick Vronsky**  
 Chercheur indépendant en cosmologie théorique  
 ORCID : [0009-0003-5719-9604](https://orcid.org/0009-0003-5719-9604)
+
+##Citation
+Vronsky, F. (2025). VLCC – Exploration thermodynamique du champ temporel (V.2). Zenodo. https://doi.org/10.5281/zenodo.17551319
 
